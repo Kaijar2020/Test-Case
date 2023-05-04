@@ -7,6 +7,8 @@
 2.Making test matrix on this test case.<br>
 3.After detecting defect create the Bug report.
 
+###Test Case file Link
+<a href="https://github.com/Kaijar2020/Test-Case/blob/main/PriyoShop.xlsx">Test Case on Priyo Shop Register and Login Module</a>
 
 ### Report screenshots
 
