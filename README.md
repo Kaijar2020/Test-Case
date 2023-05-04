@@ -10,4 +10,4 @@
 
 ### Report screenshots
 
-![338304628_2422566047913311_4043030048363313218_n](https://user-images.githubusercontent.com/68238652/229368795-1abdcbfe-7fe1-4a06-879c-2c726c32eb6d.png)
+![338304628_2422566047913311_4043030048363313218_n](https://github.com/Kaijar2020/Test-Case/blob/main/Screenshot%202023-05-05%20003155.png)
